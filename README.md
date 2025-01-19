@@ -7,9 +7,20 @@ Grateful to instructor **N H** for excellent guidance!
 ## 🌟 Key Features:
 
 - **Interactive Slicers & Bookmarks**: Designed slicer panels with pop-out functionality, enhancing user engagement and navigation.
+
+  ![Interactive Slicers](images/Costco_1.jpeg)
+
 - **Dynamic Visualizations**: Developed a variety of visuals including donut charts, bar charts, and line charts with real-time comparisons to target metrics.
+
+  ![Dynamic Visualizations](images/Costco_2.jpeg)
+
 - **Advanced KPI Development**: Created custom metrics to measure sales growth, profit, and quantities vs. last year's performance.
+
+  ![Advanced KPI](images/Costco_3.jpeg)
+
 - **Targeted Business Insights**: Focused on real-world sales and growth metrics to reflect key performance indicators (KPIs) that businesses value.
+
+  ![Targeted Insights](images/Costco_4.jpeg)
 
 ## 🎯 Skills Highlighted:
 
